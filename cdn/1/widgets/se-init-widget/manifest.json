@@ -1,0 +1,20 @@
+{
+  "name": "se-init-widget",
+  "label": "SE Initialization Widget",
+  "type": "widget",
+  "version": "1.13.0",
+  "exbVersion": "1.13.0",
+  "author": "Stone Environmental, Inc.",
+  "description": "Map Loading Widget",
+  "copyright": "",
+  "dependency": "jimu-arcgis",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 200,
+    "height": 100
+  }
+}
