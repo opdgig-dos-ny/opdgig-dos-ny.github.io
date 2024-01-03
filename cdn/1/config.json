@@ -8720,7 +8720,7 @@
   "attributes": {
     "portalUrl": "https://nysdos.maps.arcgis.com",
     "isWebTier": false,
-    "clientId": "",
+    "clientId": "2f869d75f61c430cbe0f869e3bd6b7b8",
     "title": "View Data V3",
     "description": "",
     "type": "Web Experience",
