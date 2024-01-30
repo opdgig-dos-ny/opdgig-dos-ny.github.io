@@ -1,9 +1,0 @@
-{
-  "name": "add-layers-to-a-map",
-  "type": "widget",
-  "version": "1.11.0",
-  "dependency": [
-    "jimu-arcgis"
-  ],
-  "properties": {}
-}

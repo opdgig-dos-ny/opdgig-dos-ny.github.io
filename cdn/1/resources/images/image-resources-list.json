@@ -1,0 +1,248 @@
+{
+  "1671568451570": {
+    "originalName": "mapviewer.png",
+    "fileName": "1671568451570.png",
+    "size": 1406393,
+    "url": "${appResourceUrl}/images/widget_3/1671568451570.png",
+    "created": 1671568451570,
+    "resourcesPrefix": "images/widget_3",
+    "referedIds": [],
+    "originId": "1671568451570",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1121,
+    "originalHeight": 787
+  },
+  "1671568652732": {
+    "originalName": "Coming soon (2).png",
+    "fileName": "1671568652732.png",
+    "size": 2080487,
+    "url": "${appResourceUrl}/images/widget_4/1671568652732.png",
+    "created": 1671568652732,
+    "resourcesPrefix": "images/widget_4",
+    "referedIds": [
+      "1676384134130",
+      "1676384162352",
+      "1676384207740",
+      "1676384219349",
+      "1676384352229",
+      "1676384384790",
+      "1680698463651",
+      "1680698469920",
+      "1680698489625",
+      "1680698494539",
+      "1680698504632",
+      "1680698516007"
+    ],
+    "originId": "1671568652732",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1911,
+    "originalHeight": 880
+  },
+  "1671569832305": {
+    "originalName": "Coming soon (3).png",
+    "fileName": "1671569832305.png",
+    "size": 3404224,
+    "url": "${appResourceUrl}/images/widget_16/1671569832305.png",
+    "created": 1671569832305,
+    "resourcesPrefix": "images/widget_16",
+    "referedIds": [],
+    "originId": "1671569832305",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1911,
+    "originalHeight": 880
+  },
+  "1671626986087": {
+    "originalName": "pebbles.jpg",
+    "fileName": "1671626986087.jpg",
+    "size": 5427510,
+    "url": "${appResourceUrl}/images/widget_22/1671626986087.jpg",
+    "created": 1671626986087,
+    "resourcesPrefix": "images/widget_22",
+    "referedIds": [],
+    "originId": "1671626986087",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 3500,
+    "originalHeight": 2333
+  },
+  "1676384134130": {
+    "file": {},
+    "fileName": "1676384134130.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384134130.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676384162352": {
+    "file": {},
+    "fileName": "1676384162352.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384162352.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676384207740": {
+    "file": {},
+    "fileName": "1676384207740.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384207740.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676384219349": {
+    "file": {},
+    "fileName": "1676384219349.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384219349.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676384352229": {
+    "file": {},
+    "fileName": "1676384352229.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384352229.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1676384384790": {
+    "file": {},
+    "fileName": "1676384384790.jpeg",
+    "url": "${appResourceUrl}/images/templates/1676384384790.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1679055865341": {
+    "file": {},
+    "fileName": "1679055865341.jpeg",
+    "url": "${appResourceUrl}/images/templates/1679055865341.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1679055849954",
+    "resourcesPrefix": "images/templates"
+  },
+  "1679056957806": {
+    "originalName": "HomePageSlideshow.png",
+    "fileName": "1679056957806.png",
+    "size": 75283,
+    "url": "${appResourceUrl}/images/widget_31/1679056957806.png",
+    "created": 1679056957806,
+    "resourcesPrefix": "images/widget_31",
+    "referedIds": [],
+    "originId": "1679056957806",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 800,
+    "originalHeight": 300
+  },
+  "1679057095055": {
+    "originalName": "HomePageSlideshow2.png",
+    "fileName": "1679057095055.png",
+    "size": 59800,
+    "url": "${appResourceUrl}/images/widget_40/1679057095055.png",
+    "created": 1679057095055,
+    "resourcesPrefix": "images/widget_40",
+    "referedIds": [],
+    "originId": "1679057095055",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 800,
+    "originalHeight": 300
+  },
+  "1679057235322": {
+    "originalName": "HomePageSlideshow3.png",
+    "fileName": "1679057235322.png",
+    "size": 70966,
+    "url": "${appResourceUrl}/images/widget_48/1679057235322.png",
+    "created": 1679057235322,
+    "resourcesPrefix": "images/widget_48",
+    "referedIds": [],
+    "originId": "1679057235322",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 800,
+    "originalHeight": 300
+  },
+  "1680698463651": {
+    "file": {},
+    "fileName": "1680698463651.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698463651.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698469920": {
+    "file": {},
+    "fileName": "1680698469920.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698469920.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698489625": {
+    "file": {},
+    "fileName": "1680698489625.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698489625.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698494539": {
+    "file": {},
+    "fileName": "1680698494539.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698494539.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698504632": {
+    "file": {},
+    "fileName": "1680698504632.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698504632.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698516007": {
+    "file": {},
+    "fileName": "1680698516007.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698516007.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698666253": {
+    "file": {},
+    "fileName": "1680698666253.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698666253.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  },
+  "1680698686865": {
+    "file": {},
+    "fileName": "1680698686865.jpeg",
+    "url": "${appResourceUrl}/images/templates/1680698686865.jpeg",
+    "referedIds": [],
+    "fileFormat": "image/jpeg",
+    "originId": "1671568652732",
+    "resourcesPrefix": "images/templates"
+  }
+}
